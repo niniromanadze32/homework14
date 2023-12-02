@@ -80,7 +80,7 @@ a {
   height: 70px;
   display: flex;
   align-items: flex-start;
-  margin-right: 0;
+  margin-right:273px ;
 }
 @media (max-width: 820px) {
   .nav img {
@@ -188,7 +188,7 @@ main .right-side {
     width: 750px;
     display: flex;
     flex-wrap: wrap;
-    gab: 21px;
+    gap: 21px;
   }
 }
 main .right-side h1 {
